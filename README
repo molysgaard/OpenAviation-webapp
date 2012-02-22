@@ -1,0 +1,3 @@
+This is the new framework for open aviation data.
+We are going to base ourselves on Django with the
+GeoDjango module.
